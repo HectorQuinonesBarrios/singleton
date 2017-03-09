@@ -21,5 +21,5 @@ function run() {
     var instance1 = Singleton.getInstance();
     var instance2 = Singleton.getInstance();
 
-    alert("Misma instancia? " + (instance1 === instance2));
+    swal("Misma instancia? ", (instance1 === instance2), "success");
 }
