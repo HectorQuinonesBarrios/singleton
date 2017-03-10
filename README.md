@@ -3,7 +3,7 @@
 ## Equipo:
 
 * Consuelo Ararat Mendez Caraveo 291431
-* Hector Quiñones Barrios
+* Hector Quiñones Barrios 291528
 
 ## Datos extra
 
